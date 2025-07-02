@@ -1,0 +1,38 @@
+Collections 
+			|___________
+		  /							  |
+	List Interface			Set Interface 
+	|										|
+	|-> ArrayList				|
+	|-> LinkedList			|
+	|-> Vector					|
+	|-> Stack 					|
+
+ArrayList : It is a dynamic Array which will provide support for built-in methods, which will make our code work faster, and less-written code(less number of lines) 
+
+Ex: sort(), get(), add(), set(), 
+Inserting values into the ArrayList : 
+
+add(value)  : inserts a new value after most recent value in the list.
+add(index , value) : insert a value at a specific index, then we need to mention the index and value.
+get(index) : access any specific value using index
+set(index , value) : it will modify/updates the value at any specific index
+sort() : sorts elements in ascending order by default.
+
+
+
+
+
+
+teknaaloooji 🫡 https://bit.ly/4laUaK5
+
+problems link 🥹 https://tinyurl.com/395rzdpd
+
+	
+
+
+
+
+
+
+

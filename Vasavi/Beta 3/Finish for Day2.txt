@@ -1,0 +1,11 @@
+Today To-do
+
+Console - input taking
+Constructor - 2 types 
+this keyword
+Inheritance - 4 types 
+access specifiers 
+super keyword 
+abstract classes and interfaces
+exception handling 
+final, finally, finalze........... 

@@ -1,0 +1,33 @@
+1,2,5,10,20
+Money : 69
+
+normal solution : 				count of coins
+69 - 1's 											 69
+34 - 2's, 1 - 1's									 35
+13 - 5's, 2 - 2's									 15
+6 - 10's, 1 - 5's, 2 - 2's				  		  9
+3 - 20's, 1 - 5's, 2 - 2's     			  	  6
+
+Find the one which can be calculated with least number of coins.
+Last one with 6 coins leads to the optimal solution among all others.
+
+Instead of checking every other possibility, Greedy Algorithm will find the best and optimal solution at the beginning and saves the time.
+
+
+
+
+
+Assessment Linkuuuuu😏  :  https://bit.ly/4hpghJH
+
+
+
+
+
+gg
+
+
+
+
+
+
+

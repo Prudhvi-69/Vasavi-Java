@@ -1,0 +1,44 @@
+In Java, we have built-in methods inside the class String 
+
+** length()						: used to find the length of the string
+** contains()						: used to check if any sequence/char is present in it 
+** compareTo()				: compares two string values and returns, -1, 1 and 0 
+** replace()						: replaces the target value with a new value
+** equals()						: checks if two strings are exactly equal
+** equalsIgnorecase()		: checks if two strings are equal, no need of case
+** charAt()						: used to access a specific char in String using Index
+** trim()							: used to eliminate spaces (before and after the String)
+** isEmpty()						: checks if the String is empty or not
+** toUpperCase()				: converts to UpperCase
+** toLowerCase()				: converts to LowerCase
+** substring() 					: take a part of String and works in 2 ways
+
+
+
+
+
+
+
+
+
+
+
+
+👀
+LINKKKKK 😏 https://bit.ly/3FPgOr8 🫡
+🙄
+Link is there on the screen, LISTEN to this text and open the link and start the assessment.....
+
+that LINKKK 🥵 https://tinyurl.com/395rzdpd
+
+
+https://bit.ly/4ccoOOV
+
+
+
+
+
+
+
+
+

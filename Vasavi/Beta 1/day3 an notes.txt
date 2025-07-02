@@ -1,0 +1,42 @@
+How to use the CPU in an efficient way when working with something similar(same code again) or make the CPU take less time to process the Process in Java? 
+
+
+
+Thread : Smallest part in a Process. Process is some task happening inside the program.
+
+
+** Threads concept will be inititiated when you call, the method start()
+
+** start() method will automatically calls run() method.
+
+** When working with threads, no need to call run() method separately..........
+
+** Inside the main class, create an object and call the start method..... 
+
+
+
+
+
+
+
+Assessment Link  : https://bit.ly/4cyvN5f
+
+
+
+Beta 3 Link : https://bit.ly/429D3zp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

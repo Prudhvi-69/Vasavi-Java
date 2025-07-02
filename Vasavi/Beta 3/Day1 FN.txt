@@ -1,0 +1,161 @@
+Each one have one System
+
+We will be doing simultaneously in your systems and in mine.
+
+Or we do one thing, I do first, you do next.
+
+But be sure to do something in the system related to the class but not anything else........................................
+
+
+
+
+
+
+
+
+Operators : 
+
+Arithmetic  
+		|-------- Binary 		: +, -, * , /, % 
+		|-------- Unary   	: ++, --
+ 
+Comparison / Relational  : <, >, ==, !=, <=, >= 
+Logical 								: &&, ||, ! 
+Bitwise								: <<, >>, &, |, ~ (Complement) 
+Assignment 						: =, +=, -=, *= , /=, %= 
+Ternary 								: ( Condition ) ? (If true) : (if false) ;  
+
+
+
+
+Bitwise Ops : 
+
+Steps : 
+
+1. Consider two values and the bitwise operator
+2. Convert the values into Binary  
+3. Identify the operator
+4. Perform the operation
+5. You will get the result in Binary
+6. Convert the result into OG format.
+
+1. 4 & 9 					: 0
+2. 11 & 21				: 1
+3. 2 | 10					: 10 
+4. 2 | 11					: 11
+5. 3 << 2					: 12
+6. 3 >> 2 				: 0 
+7. 69 << 4           : 
+8. 69 >> 4 				:
+
+
+
+
+
+
+0010
+1011
+1011 = 11
+
+1010 = 10
+0111 = 7
+1111 = 15
+
+3 << 2	
+0000 0000 0000 0000 0000 0000 0000 0011
+<< : Shift bits left 
+
+0000 0000 0000 0000 0000 0000 0000 1100 = 12
+
+3 >> 2
+0000 0000 0000 0000 0000 0000 0000 0011
+
+>> : Shift bits to the right 
+
+0000 0000 0000 0000 0000 0000 0000 0001
+
+0000 0000 0000 0000 0000 0000 0000 0000 = 0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<< : It shifts bits to its left..
+
+
+Final : It is used to make anything constant/stable/ fixed.
+
+For variable : It will make the variable constant and unchanging.
+For method : It will make the method non-overriding
+For class : It will make the class non-inheriting.
+
+Static : It is used to make anything related to class or belong to the class directly without the need of any OBJECT......
+
+variable : A static variable doesn't need any object to use it and default value in it will be 0 / null.
+
+method : To call a static method, you don't need to create any object, you call it directly with the name of the class.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assessment Linkuuuuuu 😏
+Password : ccc								https://bit.ly/4kOqxOB
+
+
+
+
+
+
+Remember everyday, once your assessment is finished, open your student account in ccc portal and attenDANCE.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Problems🥹🫠🧐   :   https://tinyurl.com/mr2kcrpf
+
+
+Just let me know how many SHEEEPS are here......
+
+One SHEEP starts talking, other one continues the same.....
+
+Good SHEEPS..... Bad SHEEPS.....
+VERY GOOOOOOOOOOOOOOOOOOOOOOOD.......
+
+
+
+
+
+
+
+
+ 

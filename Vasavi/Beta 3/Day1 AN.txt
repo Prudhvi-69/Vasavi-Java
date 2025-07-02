@@ -1,0 +1,184 @@
+			System Class
+|------------------------------------------
+|	|-----------|					|-----------|			|
+|	|		out		 |					|		in		 |			|												
+|	|_______|					------------			|												
+|																			|											
+|																			|												
+|_________________________|		
+
+
+
+
+
+
+
+
+
+
+
+
+Functions available inside the class : System.in
+next() : used to take a single String input
+nextLine() : used to take a multi word String input
+nextInt() : used to take integer input 
+nextDouble() : used to take float/double input 
+nextByte() : used to take a Byte of data
+nextShort() : used to take Short integer data
+next().charAt(0) : used to take a single char input
+
+
+
+
+
+Datatypes in Java 
+
+Byte		1 byte of data 			- numeric values
+Short    2 bytes of data 		   - numeric values more than byte
+Int 			4 bytes of data 			- numeric values more than short
+Long 		8 bytes of data 			- numeric values more than int
+Float 		4 bytes of data 			- decimal values, upto precision 6
+Double 8 bytes of data 			- decimal values, upto 12 
+Char 		1 byte of data 			- Single character data
+Boolean 	Depends on JVM - Takes a true or false value 
+
+
+Automatic type conversion : 
+
+Byte -> Char -> Short -> Int -> Long -> Float -> Double 
+
+Manual Type conversion : 
+
+Double -> Float -> Long -> Int -> Short -> Char -> Byte 
+
+
+
+You will be having an assessment again from 1500 hours
+
+So, I guess, we need to know about Conditional and Looping statements by that time.
+
+Is that okayyy.....?????
+
+
+
+You people already know about 
+
+if
+if else
+else if
+switch
+while
+for
+do while
+
+
+enhanced for loop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if ( ! boys == false ) 
+	stay.silent()
+
+else if ( ! boys ! = false ) 
+	stay.silent()
+
+else 
+		youCan.talk()
+
+// Applicable for all students
+
+
+
+
+
+
+Wrapper Classes : Every datatype has wrapper classes, which will provide us with the neccessary functions that makes the operations with those datatypes easier.
+										
+Datatype 		Wrapper Class of that Datatype
+	int 					Integer
+	byte					Byte
+	short				Short
+	long					Long
+	double			Double
+	string				String 
+	boolean			Boolean
+			
+
+
+** In Java there is an advantage when you are working with String datatype, in C or other languages, we cannot directly compare two strings, but in Java, it is allowed and we can do it so comfortably.
+
+String comparison can be done directly using == op.
+
+String s1= "Value"
+String s2= "value"
+
+if ( s1 == s2 )
+	System.out.print("Same same");
+else 
+	System.out.print("Same same but diffelent");
+	
+
+
+
+String day = obj.next()
+
+switch(day){
+            case 'Saturday':           System.out.println("Superrr");
+               						 break;
+            case 'Tuesday':            System.out.println("Little Superrr");
+              					  break;
+            case 'Friday':       System.out.println("Good");
+                				break;
+            case 'Wednesday':	         System.out.println("Failllllllll");
+                						break;
+            default:                System.out.println("Get Outttt");
+            				    break;
+        }
+
+Enhanced for loop : instead of accessing elements using index, we can directly access the values in the List of values 
+
+Array[ ] = [10,55,69,106,96,42,88,418]
+
+for ( int value : Array )
+	System.out.print(value + " ");
+
+
+
+
+Linkuuuu 😏     https://bit.ly/42gTB91 
+
+
+
+
+
+
+
+Finish the DANCE and open the link below
+😏🫠
+
+https://tinyurl.com/mr2kcrpf 🔥
+
+
+
+
+
+
+
+
+
+
+
+
+
+										

@@ -1,0 +1,14 @@
+String functions 
+
+length()
+charAt()
+compareTo()
+trim()
+isEmpty()
+toLowerCase()
+toUpperCase()
+replace()
+contains()
+equals()
+equalsIgnoreCase()
+substring()

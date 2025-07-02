@@ -1,0 +1,43 @@
+What is the starting point a program...????
+
+System.out.print("this is output");
+
+
+
+byte  - 1 byte 			nextByte()
+short - 2 		nextShort()
+int 		- 4 			nextInt()
+long	- 8 			nextLong()
+float - 4 			nextFloat()
+double - 8 	nextDouble()
+char - 1 byte 	next().charAt(0) 
+String (one word) - next()
+Words of input : nextLine()
+
+
+4
+	  *
+	 *	*
+	* * *
+*  *  *  *
+   * * * 
+	  * *
+      *
+
+Patternnnnnnnn
+
+_______
+|				  |
+|				  |
+|				  |
+|______.|
+
+
+
+
+Our Linkuuuuu 🫠  https://bit.ly/4llHtMC
+
+Problems link🥹https://tinyurl.com/395rzdpd
+
+
+

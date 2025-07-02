@@ -1,0 +1,74 @@
+int 1var1
+
+
+
+
+
+naming variables, functions, classses
+
+alphanumeric values 
+** it should not start with a digit 
+** it can start with an underscore
+** special characters for names are not allowed
+** $ symbol can be used in the names 
+
+
+
+JDK (Java Developement Kit) : It is a toolkit which will provide the tools which we can use to develop the applications, interfaces, systems,. etc with the help of Java. Ex : javac, java config......
+** It will contain all the tools + JRE inside it.
+
+JRE (Java Runtime Environment) : It is a place where all the built-in packages, libraries, collections, classes and interfaces will be available. Ex : utilities, input/output...,,,,,
+** It will contain all the builtin packages and collections + JVM in it.
+
+JVM (Java Virtual Machine): It is a virtual machine which will make sure everything is linked and working well during the program execution.
+
+
+6 & 13 				4 			/ 
+13 & 44				12 	 / 
+16 | 27					27		/ 		
+11 || 1					1		 / 
+3 && 14 			1		/ 	
+7 && 7					1 / 	
+69 || 42 				1/	
+
+
+Arithmatic 
+		Binary : +,-,*,/,%
+		Unary : ++, --
+Comparison / Relational : <, >, ==, <=,>=, !=
+Assignment : =, +=, -=, *=, /=, %= 
+Bitwise : &, |, <<, ^ , >>, ~, ! 
+Logical : &&, || 
+Ternary : (condition) ? (true block) : (false block)
+
+Bitwise : These operators will follow a process for every input.					&, |, ^, <<, >>, ~ 
+69 & 42 
+Steps 
+1. Consider the values and identify the operator
+2. Convert the values into Binary 
+3. Perform the operation
+4. You'll get the result in Binary
+5. Convert the result into OG format.
+
+7 << 3 			56 		 / 
+8 >> 4			0  		/ 
+1 << 3 			8 		  / 
+13 << 5 			416  / 
+69 >> 4 			4 		/ 
+1234 << 5    39488 
+
+
+Linkkkkk 🥵   https://bit.ly/42l8QyD
+
+New linkuuuuu😏 https://tinyurl.com/395rzdpd
+
+
+
+
+
+
+
+
+
+
+

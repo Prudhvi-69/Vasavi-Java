@@ -1,0 +1,130 @@
+OOP concepts : 
+Inheritance
+Polymorphism
+Class
+Object
+Abstraction
+Encapsulation
+
+
+
+
+
+
+
+
+Linkk🧐  https://bit.ly/4kYsPur 
+
+Problems 🥹
+https://tinyurl.com/mr2kcrpf
+
+
+
+
+
+
+
+Constructor : It is a method in Java which follows a different set of rules when written in any class.
+
+Rules : 
+1. It must always have the same name as the class name.
+2. It should not contain any return type ever.
+3. There is no need to call this manually.
+4. It will be called, automatically, when you create an object.
+5. We have 2 types of constructors, Default and Parameterized.
+
+1. Default : This will get activated when you create an object and no need to pass any parameters.
+2. Parameterized : This will get activated when you create an object and pass any parameters through it.
+
+**** Only one of the 2 constructors can be executed, cannot execute multiple at once *******
+
+\
+
+
+
+
+OOP :
+
+Class
+Object 
+Polymorphism 
+Inheritance 
+Encapsulation
+Abstraction
+Data Binding
+Exception handling
+
+
+
+
+
+
+
+
+Polymorphism : 
+
+Compile time and runtime polymorphism are there.
+
+Compile time : Method overloading
+
+Runtime : Method overriding 
+
+There is another thing known as "super" keyword 
+
+This super keyword is used to access the parent class values/methods inside the child class without confusion.
+
+
+
+
+
+
+
+
+   link🫠🥵  https://bit.ly/41ZLzRI 
+
+Finish your DANCE and open the below link
+
+Problems link🥹https://tinyurl.com/mr2kcrpf
+
+Abstract Class : It is a class containing both the abstarct methods and concrete methods.
+
+It will have atleast one abstract method, then you can call it, abstract class..
+
+Interface : Interface is something where you can have only final variables and abstract methods.
+
+** we can use the keyword interface when creating an interface with only abstract methods and final variables.
+
+** Interface cannot be extended, but it can be implemented.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abstract Class : 
+
+
+
+Interfaces : 
+
+
+
+
+
+
+
+
+
+
+

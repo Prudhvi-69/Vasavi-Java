@@ -1,0 +1,37 @@
+Linkuuuuu  https://bit.ly/4hLu90Q 
+
+open this link in bio after DANCE 
+
+that link🥵 :   https://tinyurl.com/mr2kcrpf
+
+
+
+
+
+
+
+
+
+LinkedList : will provide the support for accessing first and last elements everytime, when 
+1. Inserting values 
+2. Accessing values
+3. Deleting values
+
+Insert : add(), addFirst(), addLast()
+Access : get(), getFirst(), getLast()
+Delete : remove(), removeFirst(), removeLast()
+
+
+
+
+
+openn link😏    https://bit.ly/4hQ2cFo
+
+
+
+
+
+
+
+
+

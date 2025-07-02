@@ -1,0 +1,106 @@
+quickSort( int array[], int low, int high )
+{
+	if ( low < high ) 
+	{
+		int pivot = partition( array, low, high );
+		quickSort(array, low, pivot - 1);
+		quickSort(array, pivot + 1, high);
+	}
+}
+
+partition( int array[], int low, int high)
+{
+	int pivot = array[ high ],  i = low;	// pointing the pivot to the end of list
+	for ( int j = low ; j < high ; j++)		// i pointing to the 1st index
+	{		
+			if ( array[ j ] > pivot )  				// if any element is more than pivot swap
+					swap(array[ j ] , array[ i ]);	
+			i++;
+	}
+			swap( array[ i ], array[ high]);   // 
+		return i+1;  // returning the pivot element index 
+}
+
+
+
+
+
+
+
+Non Linear Data Structute
+													
+
+BInary Tree : If any node in the entire tree is having atmost 2 child nodes, is considered as Binary Tree..
+
+
+
+Level : The level of any node starts from the root node with 0, and increases when going down.
+
+Height : Height of any node is the longest path from that node till the leaf node.
+
+Depth : Depth of any node is the path from the root to this node.
+
+Degree : Max number of child nodes for any specific node.
+
+Degree of Root : Any node, consisting maximum number of child nodes is the degree of Root.
+
+
+
+
+
+
+
+Assessment link  : 
+https://bit.ly/4iXXeqO
+
+Once the assessment is finished, go to the portal and submit the attenDANCE for FN Session.
+
+             Practise Test : 		https://tinyurl.com/48vmm37s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Newly Registered M.Tech 
+
+Roll : 1602-24-742-004
+Name : D. Chandana Sudha 
+mail : chandanasudha4@gmail.com
+
+Roll : 1602-24-742-005
+Name : G Supriya reddy 
+mail : gopannolla@gmail.com
+
+Roll : 1602-24-742-011
+Name : Ch Lavanya 
+mail : lavanyachodraju@gmail.com
+
+Roll : 1602-24-742-007
+Name : D Charan Teja 
+mail : charantej1005@gmail.com
+
+Roll : 1602-24-742-008
+Name : T Neeraj Kumar
+mail : neerubhai780@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+

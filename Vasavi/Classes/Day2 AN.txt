@@ -1,0 +1,85 @@
+Preorder   ->  10 7 4 8 40 22 100
+
+Inorder    -> 		4 7 8 10 22 40 100
+
+Postorder ->   4 8 7 22 100 40 10
+1.   Preorder : 25 15 10 18 35 30 40
+      Inorder :   10 15 18 25 30 35 40
+
+2.   Postorder : 25 75 50 125 175 150 100
+      Inorder     : 25 50 75 100 125 150 175
+
+3. Postorder : 1 2 3 4 5
+    Inorder    :  1 2 3 4 5 
+
+4. Preorder : 5 4 3 2 1
+    Inorder   :  5 4 3 2 1
+
+
+
+Preorder, Postorder : You can use these two to identify the Root or parent node.
+
+Inorder : You can use this one to find out about the Left Sub Tree and Right Sub Tree.
+
+
+
+Try writing the code for creating a Basic Binary Tree.
+
+You can use onlinegdb or any editor available in the system.
+
+struct Node{
+	int data;
+	struct Node *left;
+	struct Node *right;
+}
+struct Node* createNode()   { 			}
+insertNodes()	{ 			}
+//To display the Nodes you can use 3 ways
+inorder()			{		}
+preorder()		{		}
+postorder()		{		}
+
+
+
+
+
+Linkkkkkkkkkkkkkkkkkk : 🫠
+
+https://bit.ly/4hLnDqN
+
+Hackerrank Linkuuuuuu😏
+
+https://tinyurl.com/ychu5spx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

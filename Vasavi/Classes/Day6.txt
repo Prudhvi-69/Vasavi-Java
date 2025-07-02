@@ -1,0 +1,40 @@
+Program scenario : There is a situation during COVID to restrict the social distance.
+So consider a theatre management tried a process to maximize the utilization of the seats and sell as many as possible while following all the rules perfectly without a mistake.		
+-> There cannot a any person sitting beside each other, and if any 2 people sitting in one row, there should be atleast one seat empty between them.
+-> If there are multiple rows present, there should not be a person diagonally to the person sitting in one row.
+-> We should consider all 8 sides of a person to be empty and fill as many seats as possible
+
+1st Input : Number of Rows
+2nd Input : Number of seats in each row 
+
+
+
+
+
+
+
+
+Linkuuuuuu 😁 : https://bit.ly/4hzwxb9
+
+
+
+
+Open the Google Form link and finish the remaining questions in the List of Linkss......
+
+
+
+
+
+
+Assessment Linkuuuu :  https://bit.ly/4iRgGpp
+
+Test : https://tinyurl.com/4xwym6md  (1520 hours)
+
+
+
+
+
+
+
+
+

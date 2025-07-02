@@ -1,0 +1,18 @@
+What is meant by Self Balancing Binary Tree.........??
+
+
+Node values : 
+30  	 67	  12 	 7 	 33	  69 	 106 	 42 	 2 	 1 	 6	  45
+
+Node values : 
+
+69 45 12 78 11 35 26 42 10 31 77 56 98 96 106 
+
+
+
+Assessment Link :      https://bit.ly/4hpfDfh
+
+
+https://tinyurl.com/2v54r5tb
+
+

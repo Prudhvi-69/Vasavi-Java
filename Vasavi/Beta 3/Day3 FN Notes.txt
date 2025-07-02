@@ -1,0 +1,48 @@
+Turn around this side peeps...........
+
+
+
+
+
+
+Abstract Methods : It is a method which will have no implementation when it is first created.
+
+** You can write your own implementation when you are using it somwhere else in any other class.
+
+
+
+
+
+try block: we write the code which we think will give us the Exception and if it gives any error, it will be handled by its sibling, called, catch() block.
+
+catch block () : it is going be executed only when there is an exception and will make the program work even when there are errors and exceptions.
+
+finally : this is a block of code, which is going to be executed when there is exception and even when there is no exception...
+** It will work everytime irrespective of the code and errors......
+
+
+** Exception handling will provide the support to make the programs work even in uneven situations......
+
+
+
+linkkuuuuuu 🫠   https://bit.ly/4caSKeA
+
+
+test link 🥵 : https://tinyurl.com/mr2kcrpf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

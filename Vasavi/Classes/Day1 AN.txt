@@ -1,0 +1,176 @@
+Array size : 12
+
+Array :     0 1 2 3 5 6 8 9 10 12 13 15
+
+Missing values : 4 7 11 14
+
+Lowest Missing value : 4 
+
+Get the lowest missing value as output : 4 
+
+
+
+
+Array1 :     0 1 2 3 5 6 8 9 10 12 13 15
+
+Array2 :     0 1 2 3 4 5 6 8 9 10
+   					 0 1 2 3 4 5 6 7 8 9
+
+						6 8 9 10
+					   6 7 8   9
+
+							6 8 
+							6 7 
+
+
+** Two more easy appoaches : 
+	
+			1. Start the loop from the beginning of the Array and check the respective index and its value, if there's any mismatch, you can find the lowest missing value.
+
+			2. Start iterating the Array, if the difference between any 2 values is more than 1, then you can find the missing value.
+
+
+** Write a program to find if an integer is PRIME or NOt.....
+
+20 
+Factors : 1,2,5,10,20
+Proper Factors : 1,2,5,10
+
+13
+Factors : 1,13
+Proper Factors : 1
+
+
+
+
+
+
+100 
+
+Factors : 1,2,4,5,10,20,25,50,100						
+																						  ____
+Factor Zone of 100 : SquareRoot of 100 = \/	100  = 10 
+
+SquareRoot value of any number will have atleast 1 factor, if it is a Non-Prime Number.
+
+----> If it is a Prime Number, it will never have a factor in the Factor Zone and you can just check this Zone to identify.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+square root logic for prime number will be : 
+
+prime(int N)
+{
+	int i,flag=1;
+	for(i=2 ; i<=sqrt(N) ; i++)
+	{
+		if ( N % i == 0 )
+			flag=0
+			break;
+	}
+	if(flag)   print(" Prime ");
+	else 		print(" Not a Prime ");
+}
+
+
+
+
+
+
+
+
+
+
+Trainer Name : 
+
+Assessment : 
+
+https://tinyurl.com/3rhy74br
+
+Google Form Test link : (Do this after Assessment)
+	
+https://bit.ly/4hJLes2
+
+
+
+
+When working with Quick Sort : 
+
+** You can choose any index value as Pivot, but choosing the lowest value or highest value will always increases the time complexity in Quick Sort..
+
+Tomorrow's task : Write Prime number program in as many possible ways you can.
+
+** Even a small change in the logic or iterations can be considered as one extra point and person with most number of ways will be considered as winner.
+
+** Winner will get a REWARDDDDD..............
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+maxSum(int array[], int N)
+{
+		int FinalSum=INT_MIN, CurrentSum=0;
+		for(int i =0 ; i < N; i++)
+		{
+				CurrentSum += Array[ i ]; 
+				if ( FinalSum < CurrentSum ) 			FinalSum = CurrentSum 				
+				if ( CurrentSum < 0 ) 	CurrentSum = 0
+}
+
+Time complexity will be : O(N)    ----> WHyyyyy???
+
+Iterating N times through the array for accessing each element, but it is not going beyond that.
+
+BUT, when they ask, to do it with the help of Divide and Conquer, the time complexity will become,,,, O(n Log n) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,60 @@
+LinkedList : 
+For insertions : 
+add(value)						: inserts a value to the list
+add(index, value)			: inserts a value at specific index
+addFirst(value)				: inserts a value at 0th index (First ele)
+addLast(value)				: inserts a value at last index
+
+For deleting : 
+remove(index);				-> points to index, and will delete it 
+removeFirst();  				-> points to, 1st value and vl delete it
+removeLast();				-> points to, last value and vl delete it
+
+For accessing :
+get(index) :	access an element in the linked list 
+getFirst()  : access the first element in the list
+getLast()  : access the last element in the list
+
+** LinkedList is faster for insertion and deletions in Jaba
+** ArrayList is faster when it comes to accessing the elements in the list
+** LinkedList will provide few extra methods as it is just an extention in
+
+
+
+
+
+
+
+
+
+
+
+
+LINKUUU 😂 https://bit.ly/3E1TfuI
+
+
+1520 LINK 😘 https://tinyurl.com/mr429m5y
+You can start writing the test and sit 2 in a bench for all.......
+
+
+
+
+
+This link wlll be opening at  1520 directly
+
+For those who cannot see the attendance for FN session in the morning....... You can start filling now 
+
+
+
+
+ https://tinyurl.com/mr429m5y
+
+
+
+
+
+
+
+
+
+
